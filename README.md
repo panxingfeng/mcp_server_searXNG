@@ -1,6 +1,6 @@
 # mcp_server_searXNG
 
-基于MCP技术的网络搜索功能服务器，使用[SearXNG]([https://searx.github.io/searx/](https://github.com/searxng/searxng))搜索引擎实现隐私友好的网络搜索功能。
+基于MCP技术的网络搜索功能服务器，使用[SearXNG](https://github.com/searxng/searxng)搜索引擎实现隐私友好的网络搜索功能。
 
 ## 功能特点
 
