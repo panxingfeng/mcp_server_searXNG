@@ -81,6 +81,10 @@ npx @modelcontextprotocol/inspector python -m mcp_server_searxng
 <table>
   <tr>
     <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/panxingfeng/mcp_server_searXNG/main/mcp_server_searxng测试.png" width="330" /><br>
+      <em>inspector的测试</em>
+    </td>
+    <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/panxingfeng/mcp_server_searXNG/main/搜索工具测试.gif" width="330" /><br>
       <em>基于我自己<a href="https://github.com/panxingfeng/chat_mcp">chat_mcp</a>的测试</em>
     </td>
