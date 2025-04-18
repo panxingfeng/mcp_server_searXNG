@@ -31,10 +31,10 @@
 
 ```bash
 # 安装
-pip install mcp_server_searXNG
+pip install mcp_server_searxng
 
 # 获取最新版本
-pip install --upgrade mcp_server_searXNG
+pip install --upgrade mcp_server_searxng
 ```
 
 ## 使用示例
