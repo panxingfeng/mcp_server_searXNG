@@ -76,5 +76,16 @@ pip install --upgrade mcp_server_searxng
 npx @modelcontextprotocol/inspector python -m mcp_server_searxng
 ```
 
+## 实际效果展示
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/panxingfeng/mcp_server_searXNG/main/搜索工具测试.gif" width="330" /><br>
+      <em>基于我自己<a href="https://github.com/panxingfeng/chat_mcp">chat_mcp</a>的测试</em>
+    </td>
+  </tr>
+</table>
+
 ## 许可证
 mcp_server_searXNG 使用 MIT 许可证。这意味着您可以自由使用、修改和分发此软件，但需遵守 MIT 许可证的条款和条件。详情请参阅项目仓库中的 LICENSE 文件。
