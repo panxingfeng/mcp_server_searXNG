@@ -31,7 +31,7 @@
 
 ```bash
 # 安装
-pip install mcp_server_searxng
+pip install mcp-server-searxng==0.2
 
 # 获取最新版本
 pip install --upgrade mcp_server_searxng
